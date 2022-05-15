@@ -23,6 +23,10 @@ body {
     color: black;
 }
 
+dt {
+    font-weight: bold;
+}
+
 body table {
     width: 100%;
 }
@@ -38,34 +42,6 @@ body h1 {
     text-align: center;
 }
 
-
-
-
-
-
-
-
-
-
-
-/* body aside {
-    border: 2px solid red;
-    padding: 3px;
-    float: left;
-    width: 20%;
-    color: red;
-}
-
-body article {
-    border: 2px solid yellow;
-    padding: 3px;
-    float: left;
-    width: 70%;
-    margin-right: 1%;
-    color: yellow;
-} */
-
-
 footer {
     padding-left: 5%;
     padding-right: 5%;
@@ -75,4 +51,5 @@ footer {
     color: white;
     justify-content: center;
     align-items: center;
+    text-decoration: none;
 }
